@@ -68,7 +68,6 @@ Code with Mosh (SQL Complete Mastery)
   * Using Subqueries in Updates 
   * Deleting Rows
   * Restoring Course Databases
-
 ![](../header.png)
 
 ## Ferramentas de Desenvolvimento
@@ -80,7 +79,7 @@ Code with Mosh (SQL Complete Mastery)
 
 ## Meta
 
-Revisar e aprender mais sobre Python 3 e suas usuabilidades.
+Desenvolver e melhorar minhas habilidade em SQL utilizando como DBMS a plataforma MySQL.
 
 Djan Magno – [@djanmagno] – djan.de_alcantara_magno@edu.escp.eu
 
